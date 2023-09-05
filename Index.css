@@ -1,0 +1,111 @@
+body{
+    background-color: rgba(5, 3, 3, 0.801);
+    
+}
+.spacer{
+    height: 50px;
+}
+.nav-item{
+    color: aliceblue;
+}
+.card-link{
+    color: black;
+}
+.nav nav-tabs{
+    position: fixed;
+}
+
+h1{
+    color: aliceblue;
+}
+h3{
+    color: aliceblue;
+}
+#navbar{
+    position: fixed;
+    background-color: black;
+    color: aliceblue;
+    width: 100%;
+}
+
+.mycard{
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.cardb{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 30px;
+    margin-right: 20px;
+    
+}
+
+
+#carouselExampleDark{
+    border: 9px solid black;
+    border-radius: 9px;
+    padding: 1px;
+    margin-left: -900px;
+    position: relative;
+    
+    
+    
+}
+
+.mycarasol{
+    justify-content: center;
+     display: flex;
+
+}
+
+.carousel-item:nth-child(1) img {
+    width: 300px;
+  }
+
+  .carousel-item:nth-child(2) img {
+    width: 500px;
+  }
+
+  .Educate{
+    width: 440px;
+    height: 450px;
+    padding-left: 10px;
+    background-color: deepskyblue;
+    border-radius: 19px;
+    display: flexbox;
+    justify-content: space-around;
+    float: left;
+    margin: 0 30px;
+    margin-bottom: 20px;
+
+  }
+
+  #introblock{
+    background-color: aliceblue;
+    padding: 15px;
+    border-radius: 19px;
+    border: solid black 5px;
+  }
+
+  .backgroundBody{
+    background-color:  rgba(5, 3, 3, 0.801);
+  }
+
+  .caradiv{
+   
+    background-color: aliceblue;
+    padding: 15px;
+    border-radius: 19px;
+    border: solid black 5px;
+    display: grid;
+    float: right;
+    width: 650px;
+    height: max-content;
+   /* margin-top: ;*/
+    margin-left: -500px;
+   
+   
+  }
